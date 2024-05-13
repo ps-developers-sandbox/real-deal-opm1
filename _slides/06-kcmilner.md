@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-KCM changes
+Caption here
 
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
