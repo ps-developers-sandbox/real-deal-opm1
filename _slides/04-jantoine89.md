@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Music is life!"
+title: "Music is Life!"
 ---
 
 “Without music, life would be a mistake.”
