@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Music is Life!"
 ---
 
-Caption here
+“Without music, life would be a mistake.”
+― Friedrich Nietzsche, Twilight of the Idols 
 
 ![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
 {: .center}
